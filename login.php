@@ -98,7 +98,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <header>
         <style>
             #intro {
-                background-image: url('/assets/img/background.jpg');
+                background-image: url(https://mdbootstrap.com/img/new/fluid/city/008.jpg);
                 height: 100vh;
             }
 
@@ -236,17 +236,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="text-center py-3 align-items-center">
                 <p>Follow me on social media</p>
                 
-                <a href="https://web.facebook.com/migsestores" class="btn btn-primary m-1" role="button" rel="nofollow"
+                <a href="https://web.facebook.com/" class="btn btn-primary m-1" role="button" rel="nofollow"
                     target="_blank">
                     <i class="fab fa-facebook-f"></i>
                 </a>
-                <a href="https://www.instagram.com/migggyestores/" class="btn btn-primary m-1" role="button" rel="nofollow" target="_blank">
+                <a href="https://www.instagram.com/" class="btn btn-primary m-1" role="button" rel="nofollow" target="_blank">
                     <i class="fab fa-instagram"></i>
                 </a>
 
             </div>
             © 2023 Copyright:
-            <a class="text-dark" href="#">estoresmiguel.infinityfreeapp.com</a>
+            <a class="text-dark" href="#"></a>
         </div>
         <!-- Copyright -->
     </footer>

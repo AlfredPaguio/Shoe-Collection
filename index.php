@@ -23,12 +23,12 @@ include "php/readdashboard.php"
         crossorigin="anonymous"></script>
 </head>
 
-<body style="background-image: url(/assets/img/white_background.jpg);">
+<body >
 
     <!--Main Navigation-->
     <header>
         <!-- Sidebar -->
-        <nav id="sidebarMenu" style="background-image: url(/assets/img/background.jpg);"
+        <nav id="sidebarMenu"
             class="collapse d-lg-block sidebar collapse bg-white">
             <div class="position-sticky flex-column">
                 <div class="list-group list-group-flush mx-3 mt-4">

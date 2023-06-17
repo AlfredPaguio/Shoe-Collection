@@ -29,13 +29,13 @@ include "php/readuser.php"
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css" />
 </head>
 
-<body style="background-image: url(/assets/img/white_background.jpg);">
+<body>
 
     <!--Main Navigation-->
     <header>
 
         <!-- Sidebar -->
-        <nav id="sidebarMenu" style="background-image: url(/assets/img/background.jpg);" class="collapse d-lg-block sidebar collapse bg-white">
+        <nav id="sidebarMenu" class="collapse d-lg-block sidebar collapse bg-white">
             <div class="position-sticky flex-column">
                 <div class="list-group list-group-flush mx-3 mt-4">
                     <a href="./index.php" class="list-group-item list-group-item-action py-2 ripple">
